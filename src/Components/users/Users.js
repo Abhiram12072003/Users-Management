@@ -4,7 +4,7 @@ import axios from 'axios';
 import {AiFillEdit, AiFillDelete} from 'react-icons/ai'
 import './Users.css';
 import { Modal, Button } from 'react-bootstrap';
-import { get, useForm } from 'react-hook-form';
+import { useForm } from 'react-hook-form';
 
 function Users() {
   
